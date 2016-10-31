@@ -2,3 +2,4 @@
 word
 transfer
 yes
+dictionary
