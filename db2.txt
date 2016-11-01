@@ -3,3 +3,11 @@ word
 transfer
 yes
 dictionary
+command promt
+what
+multiple
+you can also
+several
+note that
+reflected
+comprehensions
